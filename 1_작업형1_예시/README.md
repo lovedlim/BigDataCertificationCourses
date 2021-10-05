@@ -5,4 +5,4 @@
 
 
 ## 유튜브 영상
-https://youtu.be/E86QFVXPm5Q
+[빅분기 실기] 3. 무작정 따라해보기 (작업형1 예시): https://youtu.be/E86QFVXPm5Q
