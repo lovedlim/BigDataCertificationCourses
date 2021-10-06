@@ -1,6 +1,6 @@
 # 빅데이터 분석기사 실기 준비 자료
-**함께 공부하고, 합격해요 :) **
-영상 리스트 : https://youtube.com/playlist?list=PLSlDi2AkDv82Qv7B3WiWypQSFmOCb-G_-
+- **함께 공부하고, 합격해요 :) **
+- 영상 리스트 : https://youtube.com/playlist?list=PLSlDi2AkDv82Qv7B3WiWypQSFmOCb-G_-
 
 - 1 작업형1 예시문제
 - 1 작업형2 예시문제
