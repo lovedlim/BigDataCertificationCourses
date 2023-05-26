@@ -1,7 +1,29 @@
-# 빅데이터 분석기사 실기 준비 놀이터 
+# 빅데이터 분석기사 실기 준비를 위한 캐글 놀이터 
 안녕하세요 **퇴근후딴짓** 입니다🤗
-빅데이터 분석기사 실기 준비를 위한 데이터 셋입니다. 
+빅데이터 분석기사 실기 준비를 위한 데이터 셋과 튜토리얼을 공유합니다.
+입문자라서 이 자료를 보고 시작할 수 없다면 저의 [퇴근후딴짓 유튜브](https://youtube.com/playlist?list=PLSlDi2AkDv82Qv7B3WiWypQSFmOCb-G_-) 또는 [입문자를 위한 실기 강의](https://inf.run/HYmN)를 추천합니다. 
 더 좋은 코드를 만든다면 많은 공유 부탁드려요🎉 (Python과 R모두 환영합니다.)
+
+해당 자료가 성장(학습)에 도움이 되었다면 [링크](https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr/discussion/369118)를 통해 후기(피드백)를 부탁해요 ✏️
+
+### 오징어게임(스터디 멤버)모집(디스코드): 
+- [모임 소개](https://quakka.notion.site/6-1194401ec97942829da624cb069c478c)
+- [디스코드 입장](https://discord.gg/THbCvHTEQZ)
+- 6회 준비 모집 기간: ~5.21(마감)
+
+## 작업형3 예시문제 
+- 대응(쌍체)표본 T검정: [파이썬 링크](https://www.kaggle.com/agileteam/t3-example), [R 링크](https://www.kaggle.com/agileteam/t3-example-r) ```풀이 영상: ```  🖥️ [작업형3](https://bit.ly/3HnIBN7)
+- 독립표본 T검정: [파이썬 링크](https://www.kaggle.com/agileteam/t3-ttest-ind), [R 링크](https://www.kaggle.com/agileteam/t3-ttest-ind-r) 
+- 단일표본 T검정: [파이썬 링크](https://www.kaggle.com/agileteam/t3-ttest-1samp), [R 링크](https://www.kaggle.com/agileteam/t3-ttest-1samp-r)
+- 일원배치법: [파이썬 링크](https://www.kaggle.com/agileteam/t3-anova), [R 링크](https://www.kaggle.com/agileteam/t3-anova-r)
+
+- 정규성 검정 Shapiro-Wilks [파이썬 링크](https://www.kaggle.com/agileteam/t3-shapiro-wilk), [R 링크] (https://www.kaggle.com/agileteam/t3-shapiro-wilk-r)
+
+- 회귀모형(상관계수): [파이썬 링크](https://www.kaggle.com/agileteam/t3-correlation), [R 링크](https://www.kaggle.com/agileteam/t3-correlation-r)
+
+## 5회 기출 유형
+```풀이 영상: ```  🖥️ [작업형2](https://youtu.be/2n1nFbNf_5g) 
+- (5월 안에 업데이트 할게요)
 
 ## 4회 기출 유형
 ```풀이 영상: ```  🖥️ [작업형1](https://youtu.be/XAT0qvN5tnA),  🖥️ [작업형2](https://youtu.be/diP0q1YzVFg) 
@@ -9,6 +31,8 @@
 - 작업형2 유형: [풀이](https://www.kaggle.com/agileteam/4th-t2-python)
 - 작업형2: [컴피티션/데이터 링크](https://www.kaggle.com/competitions/big-data-analytics-certification-kr-2022)  -&gt; 작업형2 데이터셋 제공, 최종 답안 제출시 점수 확인 가능
 - 필답형: [가답안 링크](https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr/discussion/361256)
+- 시험환경에서 작업형 풀어보기 
+📝[작업형1-1](https://level.goorm.io/exam/164115/%ED%8C%90%EB%8B%A4%EC%8A%A4/quiz/1), 📝[작업형1-2](https://level.goorm.io/exam/164118/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B9%84%EC%9C%A8-%EC%A1%B0%EA%B1%B4-%EC%84%A0%ED%83%9D/quiz/1), 📝[작업형1-3](https://level.goorm.io/exam/164119/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B3%84%EC%97%B4-%EC%A1%B0%EA%B1%B4/quiz/1)
 
 ## 3회 기출 유형
 ```풀이 영상: ``` 🖥️ [작업형1,2](https://youtu.be/QpNufh_ZV7A)
@@ -36,11 +60,11 @@ https://goor.me/EvH8T
 
 ------------------------------------------
 
-## 🎁 [클래스101] 빅데이터 분식기사 실기 입문 강의 Open 🎁
-- https://class101.page.link/tp9k
-- **입문자를 위한 강의 오픈** 했어요 👍
-- 파이썬-판다스-머신러닝-모의문제(작업형1,2)-꿀팁 등을 실기 준비에 필요한 내용만 친절하게 알려드려요🎉
-- 머신러닝을 해보신 분이라면 수강 할 필요 없을 것 같아요, 바로 모의 문제를 풀기 힘든 설명이 필요한 찐 입문자에게 추천드려요!
+### 🎁 [인프런] 빅데이터 분식기사 실기 입문 강의 🎁
+- https://inf.run/XnzT
+- 입문자를 위한 강의를 -&gt; **인프런**으로 이전 했어요(클래스101 계약 종료) 👍 
+- 파이썬-판다스-머신러닝-모의문제-꿀팁 등을 실기 준비에 필요한 내용만 친절하게 알려드려요🎉
+- 🆕 작업형3 유형 콘텐츠 추가
 
 ------------------------------------------
 
@@ -77,7 +101,7 @@ https://goor.me/EvH8T
 - T1-9. Standardization / #표준화 #중앙값
    P: https://www.kaggle.com/agileteam/py-t1-9-expected-questions
    R: https://www.kaggle.com/limmyoungjin/r-t1-9-expected-questions-2
-- T1-10. Yeo-Johnson and Box–Cox / #여존슨 #박스-콕스 #결측치 #최빈값
+- T1-10. Yeo-Johnson and Box–Cox / #여존슨 #박스-콕스 #결측치 #최빈값 (출제 가능성 낮음)
    P: https://www.kaggle.com/agileteam/py-t1-10-expected-questions
    R: https://www.kaggle.com/limmyoungjin/r-t1-10-expected-questions-2
 
@@ -125,16 +149,28 @@ https://goor.me/EvH8T
    P: https://www.kaggle.com/agileteam/t1-24-time-series5-lagged-feature
    R: https://www.kaggle.com/limmyoungjin/r-t1-24-time-series5-2
 
-[문자열] 
-- T1-25. 성격유형 E형 찾기 / #문자 슬라이싱
+[심화 학습] 🆕
+- T1-25. String / #키워드 찾기 #문자 #슬라이싱
    P: https://www.kaggle.com/agileteam/t1-25-str-slicing
-(26~30 준비중)
+- T1-26. String / #키워드 찾기  #문자 #포함여부
+   P: https://www.kaggle.com/agileteam/t1-26-str-contains
+- T1-27. String / #키워드 찾기 #문자 #공백
+   P: https://www.kaggle.com/agileteam/t1-27-str-contains-replace
+- T1-28. Frequency / #빈도 #index
+   P: https://www.kaggle.com/agileteam/t1-28-value-counts-index
+- T1-29. Time-Series (format) # 날짜 형식
+   P: https://www.kaggle.com/agileteam/t1-29-datetime-format
+- T1-30. Time-Series #percent
+   P: https://www.kaggle.com/agileteam/t1-30-datetime-percent
+- T1-31. Melt #재구조화(전체)
+   P: https://www.kaggle.com/agileteam/t1-31-melt
+- T1-32. Melt #재구조화(일부)
+   P: https://www.kaggle.com/agileteam/t1-33-melt2
 
-[심화 학습]
-- T1-31. Sigmoid / #시그모이드
-   P: https://www.kaggle.com/agileteam/t1-31-sigmoid
-- T1-32. ReLU/ #렐루
-   P: https://www.kaggle.com/agileteam/t1-32-relu
+- T1-91. Sigmoid / #시그모이드
+   P: https://www.kaggle.com/agileteam/t1-91-sigmoid
+- T1-92. ReLU/ #렐루
+   P: https://www.kaggle.com/agileteam/t1-92-relu
 
 
 ## 📌 작업형2 예상문제
@@ -149,13 +185,14 @@ https://goor.me/EvH8T
    P: https://www.kaggle.com/agileteam/t2-3-adult-census-income-tutorial
    R: https://www.kaggle.com/limmyoungjin/r-t2-3-adult-census-income
 - T2-4. House Prices (Regression) / 집값 예측 / RMSE
-   P: https://www.kaggle.com/code/blighpark/t2-4-house-prices-regression
+   P: https://www.kaggle.com/code/agileteam/t2-4-house-prices-regression
+   P: https://www.kaggle.com/code/agileteam/house-prices-starter-xgb (XGB 시작하기)
    R: https://www.kaggle.com/limmyoungjin/r-t2-4-house-prices
 - T2-5. Insurance Forecast (Regression) /
    P: https://www.kaggle.com/agileteam/insurance-starter-tutorial
    R: https://www.kaggle.com/limmyoungjin/r-t2-5-insurance-prediction
 - T2-6. Bike-sharing-demand (Regression) / 자전거 수요 예측 / RMSLE
-   P:
+   P: https://www.kaggle.com/code/agileteam/t2-6-bike-regressor
    R: https://www.kaggle.com/limmyoungjin/r-t2-6-bike-sharing-demand
 
 
@@ -180,11 +217,6 @@ https://goor.me/EvH8T
 - 판다스 통계 함수 간단 정리  https://www.kaggle.com/agileteam/pandas-statistical-function
 - json, xml 파일 로드 https://www.kaggle.com/agileteam/tip-data-load-json-and-xml
 
-### ⚡️필답형 준비⚡️
-1. 예상 문제 : https://www.kaggle.com/agileteam/bigdatacertificationkr/discussion/277013
-2. 계산 풀이: https://www.kaggle.com/agileteam/bigdatacertificationkr/discussion/292699
-3. 로또 게임: https://www.kaggle.com/agileteam/bigdatacertificationkr/discussion/291767
-4. 개념 학습 : https://www.hira.or.kr/ebooksc/ebook_659/ebook_659_202109300534201190.pdf
 
 ##👋 Code👋 
 - 활용방법 : 노트북(코드) 클릭 후 우측 상단에  **'copy & edit'** 하면 사용한 데이터 셋과 함께 노트북이 열려요!!
@@ -193,10 +225,13 @@ https://goor.me/EvH8T
 - 작업형1 : 'T1' 을 검색해주세요!
 - 작업형2 : 'T2'를 검색해주세요!
 
+## 🦑 실기 준비 스터디 (오징어 게임) 🦑
+- 시험 5주 전 멤버 모집 
+- 시험 4주 전부터 집중 학습
 
 ## 📢 기초 학습 자료 
 ### 파이썬, 판다스, 머신러닝 / 퇴근후딴짓
-- 시험 합격용 속성 기초 강의(유료): https://class101.page.link/tp9k
+- 시험 합격용 속성 기초 강의(유료): https://inf.run/XnzT
 
 ### 📌파이썬 / 테디노트
 -  파이썬 입문 강의(무료) : https://youtu.be/dpwTOQri42s 
@@ -206,14 +241,8 @@ https://goor.me/EvH8T
 -  판다스 입문강의(유료) : https://www.udemy.com/course/pandas-i/
 -  판다스 전자책(무료) : https://wikidocs.net/book/4639
 
-### 📢 회차별 실기 준비 스터디 (오징어 게임)
-- 실기 시험 응시 5주 전 모집 -&gt; 4주간 집중 학습
-
-
 함께 공부하며 성장했으면 해요!!!:) 이 자료가 도움이 되었다면 upvote 클릭 부탁드립니다 🙏
 
-
-
-### [안내]
-- 링크가 아닌 복사로 동의없이 사용 금지
-- 본 자료에 대한 허가되지 않은 배포 금지
+### [안내] -&gt; 책으로 출간할 예정입니다!
+- 링크가 아닌 복사로 동의 없이 사용 금지 
+- 본 자료에 대한 허가되지 않은 배포 금지 
