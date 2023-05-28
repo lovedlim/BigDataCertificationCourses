@@ -23,7 +23,7 @@
 
 ## 5회 기출 유형
 ```풀이 영상: ```  🖥️ [작업형2](https://youtu.be/2n1nFbNf_5g) 
-- (5월 안에 업데이트 할게요)
+- 작업형2 유형 데이터 및 컴피티션: [링크] (https://www.kaggle.com/competitions/big-data-analytics-certification-kr-2023-5th/) 
 
 ## 4회 기출 유형
 ```풀이 영상: ```  🖥️ [작업형1](https://youtu.be/XAT0qvN5tnA),  🖥️ [작업형2](https://youtu.be/diP0q1YzVFg) 
