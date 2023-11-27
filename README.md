@@ -4,22 +4,38 @@
 입문자라서 이 자료를 보고 시작할 수 없다면 저의 [퇴근후딴짓 유튜브](https://youtube.com/playlist?list=PLSlDi2AkDv82Qv7B3WiWypQSFmOCb-G_-) 또는 [입문자를 위한 실기 강의](https://inf.run/HYmN)를 추천합니다. 
 더 좋은 코드를 만든다면 많은 공유 부탁드려요🎉 (Python과 R모두 환영합니다.)
 
-해당 자료가 성장(학습)에 도움이 되었다면 [링크](https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr/discussion/369118)를 통해 후기(피드백)를 부탁해요 ✏️
+해당 자료가 성장(학습)에 도움이 되었다면 [링크](https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr/discussion)를 통해 후기(피드백)를 부탁해요 ✏️
 
-### 오징어게임(스터디 멤버)모집(디스코드): 
-- [모임 소개](https://quakka.notion.site/6-1194401ec97942829da624cb069c478c)
-- [디스코드 입장](https://discord.gg/THbCvHTEQZ)
-- 6회 준비 모집 기간: ~5.21(마감)
+
+**작업형3 updated 2023.11**
+- 로지스틱 회귀: [파이썬 링크](https://www.kaggle.com/code/agileteam/t3-2-example-py/), [R 링크](https://www.kaggle.com/code/agileteam/t3-2-example-r/) 
+- 두 그룹 평균비교 (t통계량, f통계량): [파이썬 링크](https://www.kaggle.com/code/agileteam/t3-ttest-anova-py/), [R 링크](https://www.kaggle.com/code/agileteam/t3-ttest-anova-r/) 
+- 적합도 검정: [파이썬 링크](https://www.kaggle.com/agileteam/t3-chisquare-py), [R 링크](https://www.kaggle.com/agileteam/t3-chisquare-r) 
+- 지지도, 신뢰도, 향상도: [파이썬 링크](https://www.kaggle.com/agileteam/t3-scl-py), [R 링크](https://www.kaggle.com/agileteam/t3-scl-r) 
+- 포아송분포: [파이썬 링크](https://www.kaggle.com/agileteam/t3-pmf-py), [R 링크](https://www.kaggle.com/agileteam/t3-pmf-r) 
+- 독립성 검정: [파이썬 링크](https://www.kaggle.com/agileteam/t3-chi2-contingency-py), [R 링크](https://www.kaggle.com/agileteam/t3-chi2-contingency-r) 
+- 베르누이분포와 이항분포: [파이썬 링크](https://www.kaggle.com/agileteam/t3-probability-py), [R 링크](https://www.kaggle.com/agileteam/t3-probability-r) 
+- 점추정 및 구간추정: [파이썬 링크](https://www.kaggle.com/agileteam/t3-confidence-interval-py), [R 링크](https://www.kaggle.com/agileteam/t3-confidence-interval-r) 
+
+**작업형1 updated 2023.11**
+- t1-33. 타임델타: 
+[파이썬 링크](https://www.kaggle.com/agileteam/t1-33-timedelta-py), [R 링크](https://www.kaggle.com/agileteam/t1-33-timedelta-r) 
+
+
 
 ## 작업형3 예시문제 
-- 대응(쌍체)표본 T검정: [파이썬 링크](https://www.kaggle.com/agileteam/t3-example), [R 링크](https://www.kaggle.com/agileteam/t3-example-r) ```풀이 영상: ```  🖥️ [작업형3](https://bit.ly/3HnIBN7)
-- 독립표본 T검정: [파이썬 링크](https://www.kaggle.com/agileteam/t3-ttest-ind), [R 링크](https://www.kaggle.com/agileteam/t3-ttest-ind-r) 
-- 단일표본 T검정: [파이썬 링크](https://www.kaggle.com/agileteam/t3-ttest-1samp), [R 링크](https://www.kaggle.com/agileteam/t3-ttest-1samp-r)
-- 일원배치법: [파이썬 링크](https://www.kaggle.com/agileteam/t3-anova), [R 링크](https://www.kaggle.com/agileteam/t3-anova-r)
-
-- 정규성 검정 Shapiro-Wilks [파이썬 링크](https://www.kaggle.com/agileteam/t3-shapiro-wilk), [R 링크] (https://www.kaggle.com/agileteam/t3-shapiro-wilk-r)
-
-- 회귀모형(상관계수): [파이썬 링크](https://www.kaggle.com/agileteam/t3-correlation), [R 링크](https://www.kaggle.com/agileteam/t3-correlation-r)
+- 대응(쌍체)표본 T검정: 
+[파이썬 링크](https://www.kaggle.com/agileteam/t3-example), [R 링크](https://www.kaggle.com/agileteam/t3-example-r) ```풀이 영상: ```  🖥️ [작업형3](https://bit.ly/3HnIBN7)
+- 독립표본 T검정: 
+[파이썬 링크](https://www.kaggle.com/agileteam/t3-ttest-ind), [R 링크](https://www.kaggle.com/agileteam/t3-ttest-ind-r) 
+- 단일표본 T검정: 
+[파이썬 링크](https://www.kaggle.com/agileteam/t3-ttest-1samp), [R 링크](https://www.kaggle.com/agileteam/t3-ttest-1samp-r)
+- 일원배치법: 
+[파이썬 링크](https://www.kaggle.com/agileteam/t3-anova), [R 링크](https://www.kaggle.com/agileteam/t3-anova-r)
+- 정규성 검정 Shapiro-Wilks 
+[파이썬 링크](https://www.kaggle.com/agileteam/t3-shapiro-wilk), [R 링크] (https://www.kaggle.com/agileteam/t3-shapiro-wilk-r)
+- 회귀모형(상관계수): 
+[파이썬 링크](https://www.kaggle.com/agileteam/t3-correlation), [R 링크](https://www.kaggle.com/agileteam/t3-correlation-r)
 
 ## 5회 기출 유형
 ```풀이 영상: ```  🖥️ [작업형2](https://youtu.be/2n1nFbNf_5g) 
@@ -28,7 +44,7 @@
 ## 4회 기출 유형
 ```풀이 영상: ```  🖥️ [작업형1](https://youtu.be/XAT0qvN5tnA),  🖥️ [작업형2](https://youtu.be/diP0q1YzVFg) 
 - 작업형1 유형: [파이썬 링크](https://www.kaggle.com/agileteam/4th-type1-python), [R 링크](https://www.kaggle.com/code/yimstar9/4th-type1)
-- 작업형2 유형: [풀이](https://www.kaggle.com/agileteam/4th-t2-python)
+- 작업형2 유형: [파이썬 풀이](https://www.kaggle.com/agileteam/4th-t2-python) [R풀이](https://www.kaggle.com/code/agileteam/4th-t2-r)
 - 작업형2: [컴피티션/데이터 링크](https://www.kaggle.com/competitions/big-data-analytics-certification-kr-2022)  -&gt; 작업형2 데이터셋 제공, 최종 답안 제출시 점수 확인 가능
 - 필답형: [가답안 링크](https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr/discussion/361256)
 - 시험환경에서 작업형 풀어보기 
@@ -62,9 +78,8 @@ https://goor.me/EvH8T
 
 ### 🎁 [인프런] 빅데이터 분식기사 실기 입문 강의 🎁
 - https://inf.run/XnzT
-- 입문자를 위한 강의를 -&gt; **인프런**으로 이전 했어요(클래스101 계약 종료) 👍 
-- 파이썬-판다스-머신러닝-모의문제-꿀팁 등을 실기 준비에 필요한 내용만 친절하게 알려드려요🎉
-- 🆕 작업형3 유형 콘텐츠 추가
+- 빅데이터 분석기사 실기는 혼자서도 충분합니다. 다만 시간이 부족하거나 파이썬을 모르는 입문자라면 추천해요:)
+- 작업형1,2,3과 기출 2~6회까지, 실기 준비에 필요한 내용만 친절하게 알려드려요🎉
 
 ------------------------------------------
 
@@ -152,10 +167,13 @@ https://goor.me/EvH8T
 [심화 학습] 🆕
 - T1-25. String / #키워드 찾기 #문자 #슬라이싱
    P: https://www.kaggle.com/agileteam/t1-25-str-slicing
+   R: https://www.kaggle.com/agileteam/t1-25-str-slicing-r
 - T1-26. String / #키워드 찾기  #문자 #포함여부
    P: https://www.kaggle.com/agileteam/t1-26-str-contains
+   R: https://www.kaggle.com/agileteam/t1-26-str-contains-r
 - T1-27. String / #키워드 찾기 #문자 #공백
    P: https://www.kaggle.com/agileteam/t1-27-str-contains-replace
+   R: https://www.kaggle.com/agileteam/t1-27-str-contain-replace-r
 - T1-28. Frequency / #빈도 #index
    P: https://www.kaggle.com/agileteam/t1-28-value-counts-index
 - T1-29. Time-Series (format) # 날짜 형식
@@ -245,4 +263,4 @@ https://goor.me/EvH8T
 
 ### [안내] -&gt; 책으로 출간할 예정입니다!
 - 링크가 아닌 복사로 동의 없이 사용 금지 
-- 본 자료에 대한 허가되지 않은 배포 금지 
+- 본 자료에 대한 허가되지 않은 배포 금지 파
